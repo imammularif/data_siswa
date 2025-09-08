@@ -1,18 +1,17 @@
-## Contoh Tampilan Website nya
+## Contoh Tampilan Website
 
-- Halaman Login
+### Halaman Login
+![Login](https://github.com/imammularif/data_siswa/blob/main/SS/LOGIN.png)
 
-![Show](https://github.com/imammularif/data_siswa/blob/main/SS/LOGIN.png)
+### Halaman Dashboard
+![Dashboard](https://github.com/imammularif/data_siswa/blob/main/SS/Dahboard.png)
 
-- Halaman Dashboard
+### Halaman Data Nilai (GURU)
+![Guru](https://github.com/imammularif/data_siswa/blob/main/SS/GURU.png)
 
-![Show](https://github.com/imammularif/data_siswa/blob/main/SS/Dahboard.png)
+### Halaman Data Nilai (Siswa)
+![Nilai](https://github.com/imammularif/data_siswa/blob/main/SS/NILAI.png)
 
-- Halaman Data Nilai (GURU)
-
-![Show](https://github.com/imammularif/data_siswa/blob/main/SS/GURU.png)
-
-![Show]https://github.com/imammularif/data_siswa/blob/main/SS/NILAI.png)
 
 
 
