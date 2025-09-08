@@ -1,7 +1,7 @@
 ## Contoh Tampilan Website
 
 ### Halaman Login
-![Login](https://github.com/imammularif/data_siswa/blob/main/SS/LOGIN.png)
+![Hasil](https://github.com/imammularif/data_siswa/blob/main/SS/Dahboard.png)
 
 ### Halaman Dashboard
 ![Dashboard](https://github.com/imammularif/data_siswa/blob/main/SS/Dahboard.png)
