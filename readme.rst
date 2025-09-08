@@ -1,3 +1,24 @@
+## Contoh Tampilan Website nya
+
+- Halaman Login
+
+![Show](https://github.com/imammularif/data_siswa/blob/main/SS/LOGIN.png)
+
+- Halaman Dashboard
+
+![Show](https://github.com/imammularif/data_siswa/blob/main/SS/Dahboard.png)
+
+- Halaman Data Nilai (GURU)
+
+![Show](https://github.com/imammularif/data_siswa/blob/main/SS/GURU.png)
+
+![Show]https://github.com/imammularif/data_siswa/blob/main/SS/NILAI.png)
+
+
+
+
+
+
 ###################
 What is CodeIgniter
 ###################
